@@ -1,0 +1,1 @@
+(()=>{let t=[];!function(){for(let e=1;e<3;e++){let l=document.getElementById(`story${e}`);t.push(l)}}()})();
